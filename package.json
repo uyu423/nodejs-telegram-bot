@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-telegram-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://uyu423@github.com/uyu423/nodejs-telegram-bot.git"
+  },
+  "author": "Yowu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uyu423/nodejs-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/uyu423/nodejs-telegram-bot#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "node-fetch": "^1.6.3",
+    "node-telegram-bot-api": "^0.24.0"
+  }
+}
